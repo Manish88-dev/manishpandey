@@ -34,7 +34,7 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C++, Java, React,
+                    as well as have knowledge in programming languages such as C++, Java, React JS, Next JS,
                   <b className="yellow"> OOPS.</b>
                   <br />
                   <br />
